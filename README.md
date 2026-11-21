@@ -5,12 +5,12 @@
 <h3 align="center">你好，我是 Mike（xiangagou）👋</h3>
 
 <p align="center">
-  <em>Hackintosh · 自动化脚本 · 折腾 · On GitHub since 2014</em>
+  <em>Hackintosh · 折腾 · On GitHub since 2014</em>
 </p>
 
 <p align="center">
-  老派折腾党：Hackintosh、自动签到脚本、以及各种自托管实验。<br/>
-  Old-school tinkerer into Hackintosh builds, automation scripts, and self-hosting experiments.
+  老派折腾党：Hackintosh 启动包、自托管与各种踩坑记录。<br/>
+  Old-school tinkerer into Hackintosh builds and self-hosting experiments.
 </p>
 
 ---
@@ -20,7 +20,6 @@
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-141A2E?style=flat-square&logo=cplusplus&logoColor=A5B4FC" />
   <img alt="Go" src="https://img.shields.io/badge/Go-141A2E?style=flat-square&logo=go&logoColor=A5B4FC" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-141A2E?style=flat-square&logo=python&logoColor=A5B4FC" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-141A2E?style=flat-square&logo=gnubash&logoColor=A5B4FC" />
   <img alt="Git" src="https://img.shields.io/badge/Git-141A2E?style=flat-square&logo=git&logoColor=A5B4FC" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-141A2E?style=flat-square&logo=linux&logoColor=A5B4FC" />
@@ -46,8 +45,6 @@
 | 项目 Project | 简介 | 链接 |
 | :--- | :--- | :--- |
 | **Dell-E6440-Hackintosh** | Dell E6440 Hackintosh 启动包（实测可用） | [仓库](https://github.com/xiangagou/Dell-E6440-Hackintosh) |
-| **cloud189-action** | 天翼云盘自动签到 + 抽奖 | [仓库](https://github.com/xiangagou/cloud189-action) |
-| **My-Actions** | 多平台自动签到脚本合集 | [仓库](https://github.com/xiangagou/My-Actions) |
 | **nacos-k8s** | 在 K8s 上用 StatefulSet 部署 Nacos | [仓库](https://github.com/xiangagou/nacos-k8s) |
 
 ### 🔗 我的其他账号 · Also on
